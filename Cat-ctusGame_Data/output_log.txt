@@ -1,0 +1,58 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2048 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+Platform assembly: C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Hung\Documents\Cat-ctusGame\Cat-ctusGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.800568 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 37f0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.160362 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 553.
+Total: 0.274553 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.025659 ms MarkObjects: 0.213399 ms  DeleteObjects: 0.009408 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.886954 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 553.
+Total: 0.284389 ms (FindLiveObjects: 0.036350 ms CreateObjectMapping: 0.016678 ms MarkObjects: 0.222807 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.694510 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.292087 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.028652 ms MarkObjects: 0.229650 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.328720 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.253171 ms (FindLiveObjects: 0.026086 ms CreateObjectMapping: 0.032929 ms MarkObjects: 0.188167 ms  DeleteObjects: 0.005987 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.061437 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.291660 ms (FindLiveObjects: 0.026086 ms CreateObjectMapping: 0.024803 ms MarkObjects: 0.233499 ms  DeleteObjects: 0.006842 ms)
+
